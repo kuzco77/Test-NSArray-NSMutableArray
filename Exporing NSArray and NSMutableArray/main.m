@@ -13,7 +13,7 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
-        NSLog(@"Hello, World!");
+
         NSArray *a = [NSArray arrayWithObjects:@"object 1",@"object 2",@"holy hell",nil];
         
         NSMutableArray *b = [[NSMutableArray alloc] init];
